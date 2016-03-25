@@ -1,0 +1,6 @@
+# url
+http://stackoverflow.com/questions/34085552/sslerror-bad-handshake-python-requests
+
+
+# solve
+pip install  certifi==2016.2.28
